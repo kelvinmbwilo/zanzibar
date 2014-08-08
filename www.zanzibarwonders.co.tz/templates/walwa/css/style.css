@@ -1,0 +1,487 @@
+
+html{
+margin:0px;
+padding:0px;
+}
+body{
+margin:0px;
+padding:0px;
+background: #7E6058; color:#FFFFFF ;
+ font-family:verdana;
+ font-size:11px;
+ line-height: 1.5;
+}
+a{color:#FFFFFF ;
+ text-decoration:none;}
+
+#wapper{
+padding:0px;
+margin:0px;
+text-align:center;
+min-height: 800px;
+
+}
+#header{
+margin:0px;
+
+padding:0px;
+height:400px;
+background: #ffffff url(../images/top.png) repeat-x;
+position:relative;
+
+}
+
+#headerin{
+margin:0px;
+
+padding:0px;
+margin-bottom:90px;
+background: #ffffff url(../images/top.png) repeat-x;
+position:relative;
+
+}
+#topbar{
+width:882px;
+height:300px;
+
+}
+/* Main Navigation */
+#topbar .nav {
+float: left;
+width:500px;
+margin-left:-90px;
+z-index:999px;
+ 
+}
+#topbar .nav ul a{	color: #fff;
+text-decoration:none;}
+#topbar .nav ul  {
+font-size:16px  ;
+font-family:verdana;
+
+margin-top: 0px;
+list-style: none;
+padding: 0px;
+
+
+}
+#topbar .nav ul   a{
+padding-right: 5px;
+padding-left: 5px;
+width:90px;
+float: left;
+background: #7E6058;
+height: 100%;
+	
+}
+
+ .navl ul   a{
+padding-right: 5px;
+padding-left: 5px;
+width:90px;
+float: left;
+color:#09A151;
+text-decoration:none;	
+}
+.navl ul li{
+padding:0px;
+padding-right: 5px;
+padding-left: 5px;
+width:90px;
+    float: left;
+	margin-right: 2px;
+}
+
+.navl ul  {
+font-size:16px  ;
+list-style: none;
+font-family:verdana;
+}
+#topbar .nav ul li{
+padding:0px;
+padding-right: 5px;
+padding-left: 5px;
+width:90px;
+    float: left;
+	margin-right: 2px;
+
+	
+}
+
+
+#topbar .nav ul a:hover,
+#topbar .nav ul a:active {
+    color: #EED6E6
+}
+
+.mid{
+width:882px;
+margin-top:80px;
+z-index:999px;
+background: url(../images/mid.png) no-repeat;
+
+
+}
+
+
+
+#slider{
+margin-top:-110px;
+width:882px;
+height:400px;
+background:url(../images/slider.png) no-repeat;
+float:left;
+margin-left:80px;
+z-index:0px;
+}
+
+#sliderin{
+color: #7E6058;
+margin-top:-100px;
+width:882px;
+float:left;
+margin-left:80px;
+z-index:0px;
+
+
+}
+
+#hinner{
+margin-top:-40px;
+width:670px;
+text-align:left;
+background:#fff;
+float:left;
+margin-left:30px;
+padding:10px;
+
+
+}
+#hin{
+height:234px;
+width:872px;
+ background:url(../images/sliderin.png) no-repeat;
+}
+
+#fadeshow1{
+width:653px;
+height:345px;
+float:left;
+margin-top:42px;
+margin-left:42px;
+}
+#logo
+{
+
+width:384px;
+ height:193px;
+background:url(../images/logo.png) no-repeat;
+float:left;
+margin-right:0px;
+}
+
+#htop{
+margin-right:100px;
+width:359px;
+ height:48px;
+background:url(../images/header.png) no-repeat;
+float:right;
+}
+
+#menu
+{float:right;
+width:480px;
+margin-top:-55px;
+padding-bottom:0px;
+height:28px;
+}
+
+#menul
+{float:right;
+width:480px;
+margin-top:-55px;
+padding-bottom:0px;
+height:28px;
+}
+
+
+#menu_item
+{
+
+margin-top: 10px;
+
+}
+
+#maq_item
+{
+
+margin-top:50px;
+font-size:18px;
+	 line-height:16px;
+	 margin-bottom:5px;
+	 font-weight:bold
+}
+
+#tabareas{
+background: #7E6058 ;
+z-index:0px;
+text-align:center;
+margin-top:0px;
+
+
+text-align:center;
+}
+
+
+#left{
+float:left;
+width:550px;
+height:192px;
+
+}
+
+#col1{
+float:left;
+width:210px;
+height:192px;
+margin-left:80px;
+
+
+}
+#col2{
+
+float:right;
+width:210px;
+height:192px;
+text-align:left;
+}
+h2 a{
+font-size:10;
+}
+.leading-0 
+h2 { font-size: 18px; line-height: 1.2;  }
+.item-page
+h2 { font-size: 18px; line-height: 1.2;  
+}
+
+
+.maincolumn{
+width:210px;
+margin-left:15px;
+margin-right:15px;
+margin-top:12px;
+padding:12px;
+
+
+}
+.maincolumn3{
+width:210px;
+margin-left:25px;
+margin-top:12px;
+padding-left:10px;
+text-align:left;
+padding:12px;
+border-right: 1px solid #999999;
+
+}
+.maincolumn2{
+width:210px;
+margin-left:10px;
+margin-top:12px;
+padding-left:10px;
+text-align:left;
+padding-right:12px;
+padding-top:12px;
+padding-left:0px;
+border-right: 1px solid #999999;
+
+}
+#col3{
+
+float:right;
+width:210px;
+height:192px;
+text-align:left;
+margin-right:100px;
+
+}
+
+
+
+#socail{
+width:960px;
+
+}
+#colf{
+float:left;
+width:480px;
+border: 1px solid #29abe2;
+margin-top:9px;
+}
+#colt{
+float:right;
+width:470px;
+margin-right:0px;
+
+}
+
+#twitter{
+margin-top:9px;
+background: #29abe2;
+float:right;
+width:470px;
+margin-right:0px;
+
+}
+
+.clear1{clear:both; height:90px; }
+.clear{clear:both; }
+#footer{
+width:882px;
+margin:0px;
+height:90px;
+background: #09A151;
+
+margin-bottom: 0 !important; margin-right: 0 !important;
+
+}
+.imm 
+{height:71px;
+width:105px;
+margin: 0 20px 20px 0;
+background:url(../images/zwc-8.png) no-repeat;
+margin-left:110px;
+float:left;
+padding:0px;
+}
+
+#footer-wrap {
+
+height:120px;
+margin:0px;
+background: #09A151;
+padding:0px;	
+}
+table  ,td{
+border:1px solid #630860;
+	border-collapse: collapse;
+	border-spacing: 0;
+	
+	margin-right:30px;
+}
+
+
+#inner{
+background: url(http://www.zanzibarwonders.co.tz/templates/walwa/images/best-fm-second-take-inner_03.jpg) no-repeat;
+width:959px;
+height:233px;
+}
+#tabareasinner{
+width:960px;
+text-align:left;
+ background: #808080;
+font-family:verdana;
+font-weight: bold ;
+
+font-style: italic   ;
+position:relative;
+float:left;
+font-size:18px;
+}
+
+ #heads
+{font-family:verdana;
+
+width:640px;
+float:left;
+font-size:18px;}
+
+ #headsr{font-family:verdana;
+
+width:310px;
+float:right;}
+
+#innercontent{
+width:960px;
+
+
+}
+#leftinner{
+float:left;
+width:640px;
+color:#777;
+text-align:left;
+
+}
+
+#col3inner{
+width:310px;
+background: url(http://www.zanzibarwonders.co.tz/templates/walwa/images/best-fm-second-take-inner_08.jpg) repeat-y  ;
+text-align:left;
+
+float:right;}
+
+
+
+
+.moduletable{
+float:left;
+margin-left:25px;
+width:250px;}
+
+.item-page  a
+{color:#777;}
+.item-page  p  img
+{float:left;
+margin-right:15px;
+
+border: 1px solid  #09A151;
+padding:10px;}
+.item-page p
+{ margin-left:0px;}
+.tabtitle
+{ 
+font-family:verdana;
+font-weight: bold ;
+margin-top:5px;
+
+font-size:18px;
+
+text-align:left;
+margin-left:15px;
+}
+#modlgn-username,#modlgn-passwd{
+float:right;}
+#poptarget{
+text-align:left;
+margin-left:15px;
+}
+#poptarget a{
+color:#f5cd2b;
+}
+#poptarget a :hover{
+text-decoration:underline;
+}
+.listen{
+width:303px;
+height:115px;
+background: url(http://www.zanzibarwonders.co.tz/templates/walwa/images/best-fm-second-take_radio.png) no-repeat ;
+text-align:left;
+margin-top:5px;
+margin-bottom:5px;
+margin-right:5px;
+float:right;}
+
+#jock {
+margin-top:5px;
+text-align:left;
+ background: #808080;
+ font-style: italic   ;
+font-size:14px;}
+#jock h3{
+font-family:verdana;
+font-weight: bold ;
+margin-top:0px;
+margin-left:25px;
+font-style: italic   ;
+font-size:15px;}

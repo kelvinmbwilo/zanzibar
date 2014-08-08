@@ -1,0 +1,12 @@
+@extends('master')
+
+@section('contents')
+
+<p> <strong><span style="font-family: Calibri, sans-serif; color: #00b050; font-size: 11pt;">ABOUT US: </span></strong></p>
+<p><strong><span style="font-family: Calibri, sans-serif; color: #00b050; font-size: 11pt;"><br /></span></strong></p>
+<p><strong><span style="font-family: Calibri, sans-serif; color: #00b050; font-size: 11pt;"><br /></span></strong></p>
+<p class="text" style="margin: 0in 7.5pt 0.25in; background: white; vertical-align: baseline;"><strong><span style="font-family: Calibri, sans-serif; color: #00b050; font-size: 11pt;">ZANZIBAR WONDERS</span><span style="font-family: Calibri, sans-serif; color: #446c57; font-size: 11pt;">:</span><span style="font-family: Calibri, sans-serif; color: #446c57; font-size: 11pt;"> Is a Zanzibar Private Registered Company which basing in Zanzibar Islands. The Company started to Operate since 2011 under very great supervision of Management over 15 years of experience. </span></strong></p>
+<p class="text" style="margin: 0in 7.5pt 0.25in; background: white; vertical-align: baseline;"><strong><span style="font-family: Calibri, sans-serif; color: #446c57; font-size: 11pt;">   The major target of </span></strong><strong><span style="font-family: Calibri, sans-serif; color: #00b050; font-size: 11pt;">ZANZIBAR WONDERS</span></strong><strong><span><span style="color: #446c57; font-family: Calibri, sans-serif;"><span style="font-size: 11pt;"> expressing  itself as wonders is to fulfill the reality of people's feeling about the beauty of Zanzibar Islands and the great </span><span style="font-size: 15px;">attractive</span><span style="font-size: 11pt;"> area in Tanzania from National Parks and Reserves and also Climbing the Mount Kilimanjaro under very great experienced people.</span></span></span></strong></p>
+<p class="text" style="margin: 0in 7.5pt 0.25in; background: white; vertical-align: baseline;"><strong><span style="line-height: 115%; font-family: Calibri, sans-serif; color: #446c57; font-size: 11pt;">The great development of the company will of course bring great chance to the people where they can also benefit job for their future. </span>                                              </strong>                      </p>
+
+@stop
