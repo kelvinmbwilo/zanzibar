@@ -30,3 +30,8 @@ Route::get('about', function()
 {
 	return View::make('about');
 });
+
+Route::get('tours', function()
+{
+	return View::make('tours');
+});

@@ -239,7 +239,7 @@
 		
 		//create slider HTML
 		function createContainers(planes) {
-			var CanvasArray = '<div class="close"></div><div class="dark-layer l2"></div><div class="dark-layer l1"></div><div class="img-caption"><p></p></div><div class="navig"><div class="act">1</div><div>2</div><div>3</div></div>',
+			var CanvasArray = '<div class="close"></div><div class="dark-layer l2"></div><div class="dark-layer l1"></div><div class="img-caption"><p></p></div><div class="navig" style="margin-right: 40px"><div class="act label">Adventures</div><div class="label">Hotels</div><div class="label">Safaris</div></div>',
 				corner;
 			for (var k=0; k < length; k++) {
 				//dealing with a single plane

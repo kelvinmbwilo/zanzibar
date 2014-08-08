@@ -54,8 +54,8 @@ Author URL: http://xpertdigitalagency.com
             <div class="menu">
                 <ul>
                     <li class="home"><a href="{{ url('/') }}">Home</a></li>
-                    <li class=""><a href="{{ url('about') }}"">About Us</a></li>
-                    <li class=""><a href="blog.html">Tours</a></li>
+                    <li class=""><a href="{{ url('about') }}">About Us</a></li>
+                    <li class=""><a href="{{ url('tours') }}">Tours</a></li>
                     <li class=""><a href="{{ url('gallery') }}">Gallery</a></li>
                     <li class=""><a href="{{ url('contacts') }}">Contact</a></li>
                 </ul>
